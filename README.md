@@ -56,6 +56,8 @@ server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ## OUTPUT:
+![Uploading screen\.png…]()
+![output](https://github.com/Tanug25/webserver/assets/138849166/e4ff6019-2985-4f10-9151-6b71199f008e)
 
 ## RESULT:
 The program is executed succesfully
